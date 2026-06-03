@@ -1,0 +1,7 @@
+# local builds (binaries belong in GitHub Releases, not the repo)
+/com2wsl
+/com2wsl.exe
+*.exe
+*.dll
+/dist/
+/build/
